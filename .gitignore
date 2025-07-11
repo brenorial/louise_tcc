@@ -1,0 +1,51 @@
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+
+# Arquivos de cache do Jupyter/IPython
+.ipynb_checkpoints/
+
+# Dados brutos e arquivos temporários
+*.grib
+*.nc
+*.hdf
+*.csv
+*.txt
+*.tmp
+*.log
+
+# Saídas de imagem e animação
+*.png
+*.gif
+*.jpg
+*.jpeg
+
+# Dados shapefile compilados
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qpj
+
+# Diretórios gerados
+/mnt/
+/tmp/
+/output/
+/build/
+/dist/
+
+# Configurações específicas do sistema ou IDE
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.~*
+
+# VSCode
+.vscode/
